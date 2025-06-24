@@ -90,14 +90,6 @@ scikit-learn
 pandas
 numpy
 ```
-
----
-
-## 📸 Screenshots
-
-> Add your screenshots here using:
-> `![Screenshot](path/to/image.png)`
-
 ---
 
 ## 🔮 Future Improvements
@@ -111,10 +103,10 @@ numpy
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by **\[Your Name]**
+Built with ❤️ by **\[YOGENDRA LAKSHMAN]**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: [https://github.com/your-username](https://github.com/Hexcla)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yogendra-lakshman/)
 
 ---
 
@@ -126,7 +118,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-✅ Just paste this content into your `README.md`, replace placeholders like `your-username`, `your-profile`, and add your screenshots.
 
-Let me know if you’d like me to generate the `requirements.txt` as well.
 ```
