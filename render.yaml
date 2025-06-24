@@ -1,9 +1,9 @@
-├── main.py
-├── streamlit_app.py
-├── game_data.py
-├── recommendation_engine.py
-├── sample_games.json
-├── requirements.txt
-├── render.yaml              ← ✅ This is correct
-└── .streamlit/
-    └── config.toml          ← optional config for Streamlit server
+services:
+  - type: web
+    name: game-recommendation-app
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port=$PORT --server.address=0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
