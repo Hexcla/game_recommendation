@@ -1,4 +1,3 @@
-game_recommendation/
 ├── main.py
 ├── streamlit_app.py
 ├── game_data.py
