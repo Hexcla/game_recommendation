@@ -1,0 +1,10 @@
+game_recommendation/
+├── main.py
+├── streamlit_app.py
+├── game_data.py
+├── recommendation_engine.py
+├── sample_games.json
+├── requirements.txt
+├── render.yaml              ← ✅ This is correct
+└── .streamlit/
+    └── config.toml          ← optional config for Streamlit server
